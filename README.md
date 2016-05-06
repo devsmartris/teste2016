@@ -7,7 +7,7 @@ Elaborar uma aplicação WEB que contemple as etapas básicas do faturamento mé
 
 ## Do paciente à guia ##
 
-* A aplicação deve possuir uma márea em que seja possível selecionar um paciente e visualizar seus dados
+* A aplicação deve possuir uma área em que seja possível selecionar um paciente e visualizar seus dados
 * Após escolher o paciente deve ser possível selecionar N procedimentos da tabela TUSS
 * Consolidar em uma guia SADT
 
