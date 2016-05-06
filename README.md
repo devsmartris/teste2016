@@ -1,2 +1,3 @@
-# teste2016
-Teste prático - Processo seletivo 2016
+# Teste Prático - Desenvolvimento SmartRIS
+
+### Ao finalizar o teste submeta um pull request
