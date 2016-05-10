@@ -27,8 +27,3 @@ Elaborar uma aplicação WEB que contemple as etapas básicas do faturamento mé
 * Framework em PHP (qualquer um)
 * Framework front-end (qualquer um)
 * GitHub
-
-## Prazo & Recursos ##
-
-* Pull request até 09/05/2016 às 8:00 a.m.
-* Recursos disponíveis no repositório 
